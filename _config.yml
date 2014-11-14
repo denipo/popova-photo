@@ -4,7 +4,7 @@ email: popovapictures@gmail.com
 description: "Photo portfolio for Lena Popova"
 twitter_username: popovaphotography
 github_username:  denipo
-baseurl: "lena.popova.photo"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
