@@ -15,13 +15,11 @@ social:
     url: http://twitter.com/popovaphotography
   - title: facebook
     url: http://facebook.com/lenapopova
-  - title: github
-    url: http://github.com/denipo
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Copenhagen, Ørestad
+  - line: Denmark
 
 # Build settings
 markdown: kramdown
