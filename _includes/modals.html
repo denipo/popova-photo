@@ -31,9 +31,9 @@
                                 </li>
                             </ul>
                             <ul class="tag_list list-inline item-details">
-                              {.% for tag in post.tags %}
-                              <li class="inline">{.{ tag }}</li>
-                              {.% endfor %}
+                              {% for tag in post.tags %}
+                              <li class="inline">{{ tag }}</li>
+                              {% endfor %}
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
