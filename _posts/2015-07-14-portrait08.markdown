@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 1
+date: 2015-07-14
+img: IMG_9874.jpg
+alt: image-alt
+project-date: April 2014
+country: Denmark
+category: Portraits
+tags: 
+- portraits
+- people
+- flowers
+- ukraine
+- kiev
+- cosy
+description:  
+---
