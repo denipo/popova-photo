@@ -5,7 +5,7 @@ date: 2015-07-14
 img: IMG_1674.jpg
 alt: image-alt
 project-date: April 2014
-client: Folk
+country: Denmark
 category: Portraits
 description:  
 ---
